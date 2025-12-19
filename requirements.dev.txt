@@ -1,0 +1,2 @@
+# Only for development, No need for this on the deployment side
+flake8>=3.9.2,<3.10
